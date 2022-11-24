@@ -1,0 +1,204 @@
+body {
+  background-color: hsl(217, 54%, 11%);
+  font-family: "Outfit";
+  max-width: 1440px;
+}
+.main {
+  border: 1px solid hsl(216, 50%, 16%);
+  width: 400px;
+  height: 650px;
+  background-color: hsl(216, 50%, 16%);
+  border-radius: 15px;
+  margin-left: 50px;
+  box-shadow: 15px 10px 15px 10px hsl(214, 67%, 9%);
+}
+.img1 {
+  width: 340px;
+  height: 320px;
+  margin-left: 30px;
+  margin-top: 30px;
+  border-radius: 7px;
+}
+h2 {
+  color: white;
+  margin-left: 30px;
+}
+p {
+  color: hsl(215, 73%, 80%);
+  font-size: 20px;
+  margin-left: 30px;
+  margin-top: 20px;
+}
+h3 {
+  color: hsl(178, 100%, 50%);
+  position: relative;
+  left: 55px;
+  bottom: 47px;
+}
+.eth {
+  width: 13px;
+  margin-left: 30px;
+}
+.clock {
+  width: 20px;
+  position: relative;
+  left: 250px;
+  bottom: 85px;
+}
+h4 {
+  color: hsl(215, 73%, 80%);
+  position: relative;
+  left: 280px;
+  bottom: 130px;
+}
+hr {
+  width: 340px;
+  color: hsl(215, 73%, 80%);
+  position: relative;
+  bottom: 130px;
+}
+.pic {
+  width: 35px;
+  position: relative;
+  bottom: 115px;
+  left: 30px;
+  border: 1.5px solid white;
+  border-radius: 20px;
+}
+span {
+  color: hsl(215, 73%, 80%);
+  padding-left: 40px;
+  position: relative;
+  bottom: 125px;
+  font-size: 20px;
+}
+h5 {
+  color: white;
+  position: relative;
+  bottom: 185px;
+  left: 190px;
+  font-size: 20px;
+}
+.first {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 80px;
+  margin-top: 100px;
+}
+.second {
+  display: flex;
+  justify-content: center;
+}
+.main1 {
+  border: 1px solid hsl(216, 50%, 16%);
+  width: 500px;
+  height: 350px;
+  background-color: hsl(216, 50%, 16%);
+  border-radius: 15px;
+  box-shadow: 15px 10px 15px 10px hsl(214, 67%, 9%);
+}
+.main2 {
+  border: 1px solid hsl(216, 50%, 16%);
+  width: 500px;
+  height: 350px;
+  background-color: hsl(216, 50%, 16%);
+  border-radius: 15px;
+  position: relative;
+  bottom: 300px;
+  box-shadow: 15px 10px 15px 10px hsl(214, 67%, 9%);
+}
+.main3 {
+  border: 1px solid hsl(216, 50%, 16%);
+  width: 500px;
+  height: 350px;
+  background-color: hsl(216, 50%, 16%);
+  border-radius: 15px;
+  position: relative;
+  bottom: 300px;
+  box-shadow: 15px 10px 15px 10px hsl(214, 67%, 9%);
+}
+.main4 {
+  border: 1px solid hsl(216, 50%, 16%);
+  width: 500px;
+  height: 350px;
+  background-color: hsl(216, 50%, 16%);
+  border-radius: 15px;
+  position: relative;
+  bottom: 300px;
+  box-shadow: 15px 10px 15px 10px hsl(214, 67%, 9%);
+}
+.img11 {
+  width: 200px;
+  height: 200px;
+  margin-left: 30px;
+  margin-top: 30px;
+  border-radius: 7px;
+}
+.head {
+  color: white;
+  margin-left: 250px;
+  position: relative;
+  bottom: 200px;
+}
+.con {
+  color: hsl(215, 73%, 80%);
+  font-size: 20px;
+  margin-left: 250px;
+  position: relative;
+  bottom: 200px;
+}
+.eth2 {
+  color: hsl(178, 100%, 50%);
+  position: relative;
+  left: 55px;
+  bottom: 200px;
+}
+.eth1 {
+  width: 13px;
+  margin-left: 30px;
+  position: relative;
+  bottom: 155px;
+}
+
+.clock2 {
+  color: hsl(215, 73%, 80%);
+  position: relative;
+  left: 160px;
+  bottom: 243px;
+}
+.pic1 {
+  width: 35px;
+  position: relative;
+  bottom: 290px;
+  left: 250px;
+  border: 1.5px solid white;
+  border-radius: 20px;
+}
+.span {
+  color: hsl(215, 73%, 80%);
+  padding-left: 40px;
+  position: relative;
+  bottom: 310px;
+  left: 220px;
+  font-size: 20px;
+}
+.end {
+  color: white;
+  position: relative;
+  bottom: 370px;
+  left: 410px;
+  font-size: 20px;
+}
+.span1 {
+  color: white;
+  font-size: 20px;
+  position: relative;
+  top: 30px;
+  right: 200px;
+}
+.side {
+  float: right;
+  position: relative;
+  left: 500px;
+  bottom: 1385px;
+}
